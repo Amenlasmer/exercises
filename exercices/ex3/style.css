@@ -1,0 +1,17 @@
+div {
+    width : 20% ;
+    margin : auto ;
+}
+button {
+    padding : 10px ;
+    display : inline - block ;
+}
+li {
+    list-style : none ;
+    font-weight : bold ;
+    font-size : 20px ;
+    margin-left : -40px ;
+   
+}
+    
+   
